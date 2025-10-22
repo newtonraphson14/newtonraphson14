@@ -10,10 +10,10 @@
 
 - 🔭 I’m currently working on **Azure Cloud Projects**
 - 🌱 I’m currently learning **Azure Cloud Engineering**
-- 🤝 I’m looking to collaborate on **Cloud Native Projects**
+- 🤝 I’m looking to collaborate on **Azure Cloud Native Projects**
 - 👨‍💻 All of my projects are available at [https://github.com/newtonraphson14](https://github.com/newtonraphson14)
 - 📝 I regularly write articles on [https://newtonraphson14.github.io/website/](https://newtonraphson14.github.io/website/)
-- 💬 Ask me about **Cloud Computing**
+- 💬 Ask me about **Azure**
 - 📫 How to reach me **ikbarfaiz14@gmail.com**
 - 📄 Know about my experiences [https://github.com/newtonraphson14](https://github.com/newtonraphson14)
 - ⚡ Fun fact **Only deploy on Azure. Cannot build any website (thats why my own website look like shit)**
