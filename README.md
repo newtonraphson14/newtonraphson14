@@ -16,7 +16,7 @@
 - 💬 Ask me about **Azure**
 - 📫 How to reach me **ikbarfaiz14@gmail.com**
 - 📄 Know about my experiences [https://github.com/newtonraphson14](https://github.com/newtonraphson14)
-- ⚡ Fun fact **Only deploy on Azure. Cannot build any website (thats why my own website look like shit)**
+- ⚡ Fun fact **Can build web without CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
