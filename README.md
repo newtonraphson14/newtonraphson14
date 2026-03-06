@@ -1,6 +1,6 @@
 # Ikbar Faiz
 
-### Astrophysics first.
+### Astrophysics x Computing
 
 Second-year Computer Science student at BINUS University working across astrophysics, machine learning, data processing, and cloud infrastructure. My work sits between scientific analysis and technical execution, with a particular focus on stellar clusters, survey-based data, scalable workflows, and computational approaches to physical questions.
 
