@@ -11,7 +11,7 @@ I like building things that move cleanly from raw data to usable systems, whethe
 - LinkedIn: [ikbarfaiz](https://linkedin.com/in/ikbarfaiz)
 - Instagram: [ikbarpaaiz__](https://instagram.com/ikbarpaaiz__)
 - Discord: `hydd__`
-- Website: [newtonraphson14.github.io/website](https://newtonraphson14.github.io/website/)
+- Website: [ikbarfaiz.vercel.app](https://ikbarfaiz.vercel.app)
 - Email: `ikbarfaiz14@gmail.com`
 
 ## Focus Areas
