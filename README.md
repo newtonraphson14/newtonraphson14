@@ -34,9 +34,5 @@ I like building things that move cleanly from raw data to usable systems, whethe
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=newtonraphson14&theme=dark&hide_border=false)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=newtonraphson14&icon=0&color=0)](https://visitcount.itsvg.in)
